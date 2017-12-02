@@ -12,7 +12,7 @@ Good luck!
 In the workshop you will be building a blog, and there are a few setup tasks in the tutorial which would be good to work through beforehand so that you are ready to start coding on the day.
 
 <!--sec data-title="Chromebook setup (if you're using one)"
-data-id="chromebook_setup" data-collapse=true ces-->
+data-id="chromebook_setup" data-collapse=false ces-->
 {% include "/chromebook_setup/instructions.md" %}
 <!--endsec-->
 
